@@ -1,0 +1,3 @@
+[submodule "PythonScript"]
+	path = PythonScript
+	url = https://github.com/bruderstein/PythonScript.git
